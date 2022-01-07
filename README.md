@@ -1,5 +1,11 @@
-# **Project 5: Predicting Covid Deaths in Nursing Homes**
+# **Predicting Covid Deaths in Nursing Homes**
 ### By: Shirley Lin, Jamie Squires, Sam Waldner
+
+Done collaboratively in a group with Shirley Lin and Jamie Squires, see their GitHub's below.
+
+[Shirely Lin](https://github.com/mayshirley519)
+[Jamie Squires](https://github.com/jmsquires21)
+
 
 # Executive Summary
 
