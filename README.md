@@ -10,6 +10,17 @@ Done collaboratively in a group with Shirley Lin and Jamie Squires, see their Gi
 
 # Executive Summary
 
+## Software Requirements
+
+- Pandas
+- Scikit-learn
+- Seaborn
+- Streamlit
+- Numpy
+- Matplotlib.pyplot
+- XGBoost
+- Tensorflow/Keras
+
 ## Background & Overview
 
 The communal nature of nursing homes puts elderly and vulnerable residents at an increased risk of infection and severe illness from COVID-19. According to the New York Times, in the US, long-term care facilities accounted for almost 40% of total COVID deaths and 5% of all cases in 2020. 
